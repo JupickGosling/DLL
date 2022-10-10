@@ -9,6 +9,9 @@ namespace ConsoleApp3
         {
             Sum s = new Sum(1,2,3);
             s.PrintSum();
+
+            Dif d = new Dif(10, 5);
+            d.PrintDif();
         }
     }
 }
