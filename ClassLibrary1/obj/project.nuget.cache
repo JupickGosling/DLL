@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8A6BsJ3V0WquaOew/uvZn4gB56VJX/Ya1UZ7MEMuFp+D6aW7ZD9zPhZKHPwRBQeZjlR6k98jMqLBWwZ3Ty0jtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gizbrekht.ya0796\\Desktop\\ConsoleApp3\\ClassLibrary1\\MyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gizbrekht.ya0796\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gizbrekht.ya0796\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

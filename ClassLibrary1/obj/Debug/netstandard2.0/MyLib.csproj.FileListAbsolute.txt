@@ -1,0 +1,17 @@
+C:\Users\TEMP.OKEIT.013\source\repos\ConsoleApp3\ClassLibrary1\bin\Debug\netstandard2.0\MyLib.deps.json
+C:\Users\TEMP.OKEIT.013\source\repos\ConsoleApp3\ClassLibrary1\bin\Debug\netstandard2.0\MyLib.dll
+C:\Users\TEMP.OKEIT.013\source\repos\ConsoleApp3\ClassLibrary1\bin\Debug\netstandard2.0\MyLib.pdb
+C:\Users\TEMP.OKEIT.013\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\TEMP.OKEIT.013\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.AssemblyInfo.cs
+C:\Users\TEMP.OKEIT.013\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.OKEIT.013\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.dll
+C:\Users\TEMP.OKEIT.013\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.pdb
+C:\Users\gizbrekht.ya0796\Desktop\ConsoleApp3\ClassLibrary1\bin\Debug\netstandard2.0\MyLib.deps.json
+C:\Users\gizbrekht.ya0796\Desktop\ConsoleApp3\ClassLibrary1\bin\Debug\netstandard2.0\MyLib.dll
+C:\Users\gizbrekht.ya0796\Desktop\ConsoleApp3\ClassLibrary1\bin\Debug\netstandard2.0\MyLib.pdb
+C:\Users\gizbrekht.ya0796\Desktop\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.csprojAssemblyReference.cache
+C:\Users\gizbrekht.ya0796\Desktop\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\gizbrekht.ya0796\Desktop\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.AssemblyInfo.cs
+C:\Users\gizbrekht.ya0796\Desktop\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\gizbrekht.ya0796\Desktop\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.dll
+C:\Users\gizbrekht.ya0796\Desktop\ConsoleApp3\ClassLibrary1\obj\Debug\netstandard2.0\MyLib.pdb
