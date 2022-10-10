@@ -24,7 +24,6 @@ namespace MyLib
     {
         int x;
         int y;
-        int z;
 
         public Dif(int x, int y)
         {
