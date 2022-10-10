@@ -12,6 +12,9 @@ namespace ConsoleApp3
 
             Dif d = new Dif(10, 5);
             d.PrintDif();
+
+            Dif d1 = new Dif(20, 5);
+            d1.PrintDif();
         }
     }
 }
